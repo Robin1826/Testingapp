@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>dl_matcher</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Data Lookup Matcher Rules Form Screen">5321b56c473002109b2b1cfe826d43d0</embedded_screen>
+        <item_view/>
+        <name>Data Lookup Matcher Rules master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-04 08:46:12</sys_created_on>
+        <sys_id>df21b56c473002109b2b1cfe826d43d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Data Lookup Matcher Rules master_item</sys_name>
+        <sys_package display_value="CICD_GITHUB" source="x_131802_cicd_gith">04803d28473002109b2b1cfe826d4326</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CICD_GITHUB">04803d28473002109b2b1cfe826d4326</sys_scope>
+        <sys_update_name>sys_sg_master_item_df21b56c473002109b2b1cfe826d43d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-04 08:46:12</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Data Lookup Matcher Rules List Screen View Config">5b213d28473002109b2b1cfe826d438c</view_config>
+    </sys_sg_master_item>
+</record_update>

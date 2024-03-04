@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>CICD_GITHUB Data Lookup Matcher Rules</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-04 08:46:12</sys_created_on>
+        <sys_id>5b213d28473002109b2b1cfe826d438b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CICD_GITHUB Data Lookup Matcher Rules</sys_name>
+        <sys_package display_value="CICD_GITHUB" source="x_131802_cicd_gith">04803d28473002109b2b1cfe826d4326</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CICD_GITHUB">04803d28473002109b2b1cfe826d4326</sys_scope>
+        <sys_update_name>sys_sg_data_item_5b213d28473002109b2b1cfe826d438b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-04 08:46:12</sys_updated_on>
+        <table>dl_matcher</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=5b213d28473002109b2b1cfe826d438b"/>
+</record_update>

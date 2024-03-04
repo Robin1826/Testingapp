@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>e3233120477002109b2b1cfe826d432c</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_131802_cicd_gith_cicd_test_table">
+    <x_131802_cicd_gith_cicd_test_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <contact_number/>
+        <date>2024-03-04 08:55:19</date>
+        <description>test for CICD</description>
+        <name>test</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-04 08:55:40</sys_created_on>
+        <sys_id>e3233120477002109b2b1cfe826d432c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-04 08:55:40</sys_updated_on>
+    </x_131802_cicd_gith_cicd_test_table>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-04 08:56:47</sys_created_on>
+        <sys_id>1a937120477002109b2b1cfe826d43e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="CICD_GITHUB" source="x_131802_cicd_gith">04803d28473002109b2b1cfe826d4326</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CICD_GITHUB">04803d28473002109b2b1cfe826d4326</sys_scope>
+        <sys_update_name>sys_metadata_link_1a937120477002109b2b1cfe826d43e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-04 08:56:47</sys_updated_on>
+        <tablename>x_131802_cicd_gith_cicd_test_table</tablename>
+    </sys_metadata_link>
+</record_update>
